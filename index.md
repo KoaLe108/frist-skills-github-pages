@@ -1,5 +1,3 @@
 ---
-title: Welcome to my project
-description: Đây là đồ án môn các nền tảng
+title: Welcome to my Dự án
 ---
-Tạo
